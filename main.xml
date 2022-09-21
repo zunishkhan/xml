@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+<book>
+    <language>english</language>
+    <price>700</price>
+</book>
+
+<book>
+<language>italian</language>
+<price>900</price>
+</book>
+
+<book>
+<language>urdu</language>
+<price>1100</price>
+</book>
+
+<book>
+<language>arabic</language>
+<price>950</price>
+</book>
+
+<book>
+<language>spanish</language>
+<price>1300</price>
+</book>
+
+
+<book>
+<language>hindi</language>
+<price>890</price>
+</book>
+
+<book>
+<language>Mandarin Chinese</language>
+<price>990</price>
+</book>
+
+<book>
+<language>French</language>
+<price>1000</price>
+</book>
+</bookstore>
